@@ -2,10 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id ="@+id/home"
-        android:title="Home"
+        android:id="@+id/home"
         android:icon="@drawable/ic_home_black_24dp"
-        />
+        android:title="Home" />
 
     <item
         android:id ="@+id/map"
@@ -14,12 +13,10 @@
         />
 
 
-
     <item
-        android:id ="@+id/budget"
-        android:title="Trip Plan"
-        android:icon="@drawable/ic_budget"
-        />
+        android:id="@+id/budget"
+        android:icon="@drawable/ic_airplanemode_active_black_24dp"
+        android:title="Trip Plan" />
 
     <item
         android:id ="@+id/favorite"
@@ -28,12 +25,10 @@
         />
 
 
-
     <item
-        android:id ="@+id/profile"
-        android:title="Profile"
-        android:icon="@drawable/ic_person_black_24dp"
-        />
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_people_black_24dp"
+        android:title="Profile" />
 
 
 
